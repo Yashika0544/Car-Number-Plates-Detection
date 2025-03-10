@@ -1,1 +1,1 @@
-# Car-Number-Plates-Detection
+# Vehicle-Number-Plates-Detection
